@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**jaypatel1210/jaypatel1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently working on Angular, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript
 🌱 I’m currently learning React.js, Express, Next.js
+
+<!--
+**jaypatel1210/jaypatel1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
