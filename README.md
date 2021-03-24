@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Angular, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript
+🔭 I’m currently working on Angular, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript  
 🌱 I’m currently learning React.js, Express, Next.js
 
 <!--
