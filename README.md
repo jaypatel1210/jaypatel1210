@@ -1,8 +1,7 @@
 ### Hi there 👋  
 
-<div align="center">
-  ![counter](https://en9rqbssizh0ap8.m.pipedream.net/)  
-</div>  
+![counter](https://en9rqbssizh0ap8.m.pipedream.net/)  
+
 
 🔭 I’m currently working on Angular, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript  
 
