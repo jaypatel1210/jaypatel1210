@@ -1,6 +1,8 @@
 ### Hi there 👋  
 
-![counter](https://en9rqbssizh0ap8.m.pipedream.net/)  
+<p aligin="center">  
+ ![counter](https://en9rqbssizh0ap8.m.pipedream.net/)  
+</p>
 
 
 🔭 I’m currently working on Angular, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript  
