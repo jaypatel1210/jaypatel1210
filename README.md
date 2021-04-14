@@ -3,9 +3,9 @@
 ![counter](https://en9rqbssizh0ap8.m.pipedream.net/)  
 
 
-🔭 I’m currently working on Angular, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript  
+🔭 I’m currently working on Angular, React, Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript  
 
-🌱 I’m currently learning React.js, Express, Next.js  
+🌱 I’m currently learning Express, Next.js  
 
 
 <!--
