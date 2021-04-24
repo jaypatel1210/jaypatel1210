@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, Jay Patel Here</h1>
+<h2 align="center">Hi there 👋, Jay Patel Here</h2>
 
-<p align="center">![counter](https://en9rqbssizh0ap8.m.pipedream.net/)</p>
+![counter](https://en9rqbssizh0ap8.m.pipedream.net/)
 
 🔭 I’m currently working on Angular, React, Nodejs, Express, MongoDB,Ionic, Firebase, PHP, MySQL, TypeScript, JavaScript
 
