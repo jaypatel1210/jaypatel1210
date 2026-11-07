@@ -1,6 +1,6 @@
 ## Jay Patel
 
-Frontend engineer (SDE 2) at Full Creative, working on React, TypeScript and Next.js booking flows that serve 2.6M+ appointments a month.
+Frontend engineer at Full Creative, working on React, TypeScript and Next.js booking flows that serve 2.6M+ appointments a month.
 
 Good places to start:
 
